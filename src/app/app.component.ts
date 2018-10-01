@@ -28,5 +28,4 @@ export class AppComponent {
       created_at: new Date()
     }
   ];
-
 }
